@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d7PCt4bxl6+0t9DdRjoE6+WSGYLZ7rzWEUjHGL6pwGw=",
+  "Source": "CustomAuthorization.Presentation",
+  "BasePath": "_content/CustomAuthorization.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

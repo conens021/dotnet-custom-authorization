@@ -1,0 +1,11 @@
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\bin\Debug\net6.0\CustomAuthorization.BLL.deps.json
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\bin\Debug\net6.0\CustomAuthorization.BLL.dll
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\bin\Debug\net6.0\ref\CustomAuthorization.BLL.dll
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\bin\Debug\net6.0\CustomAuthorization.BLL.pdb
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\obj\Debug\net6.0\CustomAuthorization.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\obj\Debug\net6.0\CustomAuthorization.BLL.AssemblyInfoInputs.cache
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\obj\Debug\net6.0\CustomAuthorization.BLL.AssemblyInfo.cs
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\obj\Debug\net6.0\CustomAuthorization.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\obj\Debug\net6.0\CustomAuthorization.BLL.dll
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\obj\Debug\net6.0\ref\CustomAuthorization.BLL.dll
+C:\Users\Nemus\source\repos\CustomAuthorization\CustomAuthorization.BLL\obj\Debug\net6.0\CustomAuthorization.BLL.pdb
